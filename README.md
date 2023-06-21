@@ -4,11 +4,11 @@ This is the source code of our submission to the Social Neuroscience Journal. Th
 ### Title: Predicting Narcissistic Personality Traits from Brain and Psychological Features: A Supervised Machine Learning Approach 
 
 ### Authors:
-Khanitin Jornkokgoud<sub>1</sub>, Teresa Baggio<sub>2</sub>, Md Faysal<sub>2</sub>, Richard Bakiaj<sub>2</sub>, Peera Wongupparaj<sub>1</sub>, Remo Job<sub>2,3</sub>, Alessandro Grecucci<sub>2,3</sub>
+Khanitin Jornkokgoud<sup>1</sup>, Teresa Baggio<sup>2</sup>, Md Faysal<sup>2</sup>, Richard Bakiaj<sup>2</sup>, Peera Wongupparaj<sub>1</sup>, Remo Job<sup>2,3</sup>, Alessandro Grecucci<sup>2,3</sup>
 
-<sub>1</sub>Cognitive Science and Innovation Research Unit (CSIRU), College of Research Methodology and Cognitive Science (RMCS), Burapha University, Thailand; 
-<sub>2</sub>Department of Psychology and Cognitive Sciences (DiPSCo), University of Trento, Italy; 
-<sub>3</sub>Centre for Medical Sciences (CISMed), University of Trento, Italy
+<sup>1</sup>Cognitive Science and Innovation Research Unit (CSIRU), College of Research Methodology and Cognitive Science (RMCS), Burapha University, Thailand; 
+<sup>2</sup>Department of Psychology and Cognitive Sciences (DiPSCo), University of Trento, Italy; 
+<sup>3</sup>Centre for Medical Sciences (CISMed), University of Trento, Italy
 
 ### Research question
 Whether other normal and abnormal personality traits are associated with and can be used to predict narcissism. 
