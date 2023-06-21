@@ -4,7 +4,7 @@ This is the source code of our submission to the Social Neuroscience Journal. Th
 ### Title: Predicting Narcissistic Personality Traits from Brain and Psychological Features: A Supervised Machine Learning Approach 
 
 ### Authors:
-Khanitin Jornkokgoud<sup>1</sup>, Teresa Baggio<sup>2</sup>, Md Faysal<sup>2</sup>, Richard Bakiaj<sup>2</sup>, Peera Wongupparaj<sub>1</sup>, Remo Job<sup>2,3</sup>, Alessandro Grecucci<sup>2,3</sup>
+Khanitin Jornkokgoud<sup>1</sup>, Teresa Baggio<sup>2</sup>, Md Faysal<sup>2</sup>, Richard Bakiaj<sup>2</sup>, Peera Wongupparaj<sup>1</sup>, Remo Job<sup>2,3</sup>, Alessandro Grecucci<sup>2,3</sup>
 
 <sup>1</sup>Cognitive Science and Innovation Research Unit (CSIRU), College of Research Methodology and Cognitive Science (RMCS), Burapha University, Thailand; 
 <sup>2</sup>Department of Psychology and Cognitive Sciences (DiPSCo), University of Trento, Italy; 
