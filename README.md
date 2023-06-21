@@ -1,6 +1,18 @@
 ### The neighborhood component analysis (NCA) on narcissism and other traits
 This is the source code of our submission to the Social Neuroscience Journal. The analysis is based on the neighborhood component process of machine learning. 
 
+### Title: Predicting Narcissistic Personality Traits from Brain and Psychological Features: A Supervised Machine Learning Approach 
+
+### Authors:
+Khanitin Jornkokgoud<sub>1</sub>, Teresa Baggio<sub>2</sub>, Md Faysal<sub>2</sub>, Richard Bakiaj<sub>2</sub>, Peera Wongupparaj<sub>1</sub>, Remo Job<sub>2,3</sub>, Alessandro Grecucci<sub>2,3</sub>
+
+<sub>1</sub>Cognitive Science and Innovation Research Unit (CSIRU), College of Research Methodology and Cognitive Science (RMCS), Burapha University, Thailand; 
+<sub>2</sub>Department of Psychology and Cognitive Sciences (DiPSCo), University of Trento, Italy; 
+<sub>3</sub>Centre for Medical Sciences (CISMed), University of Trento, Italy
+
+### Research question
+Whether other normal and abnormal personality traits are associated with and can be used to predict narcissism. 
+
 #### Tools and Requirements
 Tools used in this work:
   * `MATLAB R2018 `
